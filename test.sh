@@ -1,4 +1,3 @@
 #! /bin/bash
-STRING="Empty string"
-echo "I think this is an $STRING"
+echo "I love $1, I can't imagine a world without $2"
 
