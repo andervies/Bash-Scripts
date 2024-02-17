@@ -3,3 +3,4 @@ echo "what is your name?"
 read name
 if [name]; then
 echo "Nice name, King"
+ifconfig | grep broadcast | echo
